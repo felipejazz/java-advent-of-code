@@ -5,7 +5,8 @@
   <artifactId>felipe-jazz</artifactId>
   <version>0.1.0</version>
   <build>
-    <sourceDirectory>src/main/java</sourceDirectory>
+    <sourceDirectory>main/java</sourceDirectory>
+    <testSourceDirectory>test/java</testSourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-shade-plugin</artifactId>
@@ -25,6 +26,10 @@
             </configuration>
           </execution>
         </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>2.22.2</version>
       </plugin>
     </plugins>
   </build>

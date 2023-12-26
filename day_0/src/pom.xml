@@ -32,8 +32,8 @@
 	</dependencies>
 
 	<build>
-		<sourceDirectory>/home/felipe-tarvos/repos/java_aoc/day_0/src/main/java</sourceDirectory>
-		  <testSourceDirectory>/home/felipe-tarvos/repos/java_aoc/day_0/src/test/java</testSourceDirectory>
+		<sourceDirectory>main/java</sourceDirectory>
+		  <testSourceDirectory>test/java</testSourceDirectory>
 
 			<plugins>
 				<plugin>
