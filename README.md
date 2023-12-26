@@ -1,6 +1,7 @@
 # java-studies
 
-This is the repository of Java studies developed using the Spring Boot framework. Before starting make sure you have the following prerequisites installed on your machine:
+This is the repository of Java studies developed using the Spring Boot framework, performing exercises from the Advent of Code for the year 2023. 
+Before starting, make sure you have the following prerequisites installed on your machine:
 
 ## Pré-requisitos
 
@@ -20,12 +21,14 @@ This is the repository of Java studies developed using the Spring Boot framework
 ## Compiling and running the project
 
 1. To check if the code is compiling, navigate to the directory where the pom.xml file is located and run the following command:
+   
    ```bash
    # Compiling the project
    mvn compile
    ```
 
 2. To install the code, navigate to the directory where the pom.xml file is located and run the following command:
+   
    ```bash
    # Installing the project
    mvn install
