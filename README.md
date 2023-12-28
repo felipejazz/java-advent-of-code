@@ -3,7 +3,7 @@
 This is the repository of Java studies developed using the Spring Boot framework, performing exercises from the Advent of Code for the year 2023. 
 Before starting, make sure you have the following prerequisites installed on your machine:
 
-## Pré-requisitos
+## Requirements
 
 1. **Java:** Make sure you have Java installed. You can download the latest version of Java [here](https://www.oracle.com/java/technologies/javase-downloads.html) or using a version management tool like [SDKMAN!](https://sdkman.io/).
    
