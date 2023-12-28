@@ -1,0 +1,2529 @@
+Game 1
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=44, green=19, blue=35}
+Current 44
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 19
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 35
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 2
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=8, blue=17}
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+Current 8
+EQUAL OR LESS THAN 
+Base 13
+Current 17
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 3
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=1, green=12, blue=31}
+Current 1
+EQUAL OR LESS THAN 
+Base 12
+Current 12
+EQUAL OR LESS THAN 
+Base 13
+Current 31
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 4
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=46, green=25, blue=30}
+Current 46
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 25
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 30
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 5
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=4, green=19, blue=26}
+Current 4
+EQUAL OR LESS THAN 
+Base 12
+Current 19
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 26
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 6
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=9, green=9, blue=48}
+Current 9
+EQUAL OR LESS THAN 
+Base 12
+Current 9
+EQUAL OR LESS THAN 
+Base 13
+Current 48
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 7
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=25, green=5, blue=8}
+Current 25
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 13
+Current 8
+EQUAL OR LESS THAN 
+Base 14
+Game 8
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=26, green=48, blue=19}
+Current 26
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 48
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 19
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 9
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=10, green=8, blue=14}
+Current 10
+EQUAL OR LESS THAN 
+Base 12
+Current 8
+EQUAL OR LESS THAN 
+Base 13
+Current 14
+EQUAL OR LESS THAN 
+Base 14
+Add 9
+Game 10
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=22, blue=3}
+Current 24
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 22
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 3
+EQUAL OR LESS THAN 
+Base 14
+Game 11
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=2, green=45, blue=38}
+Current 2
+EQUAL OR LESS THAN 
+Base 12
+Current 45
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 38
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 12
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=23, green=10, blue=14}
+Current 23
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 10
+EQUAL OR LESS THAN 
+Base 13
+Current 14
+EQUAL OR LESS THAN 
+Base 14
+Game 13
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=10, green=25, blue=54}
+Current 10
+EQUAL OR LESS THAN 
+Base 12
+Current 25
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 54
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 14
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=5, green=83, blue=18}
+Current 5
+EQUAL OR LESS THAN 
+Base 12
+Current 83
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 18
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 15
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=13, green=5, blue=16}
+Current 13
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 13
+Current 16
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 16
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=30, green=29, blue=20}
+Current 30
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 29
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 20
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 17
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=37, green=31, blue=30}
+Current 37
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 31
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 30
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 18
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=30, green=43, blue=47}
+Current 30
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 43
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 47
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 19
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=54, green=46, blue=57}
+Current 54
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 46
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 57
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 20
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=6, green=40, blue=28}
+Current 6
+EQUAL OR LESS THAN 
+Base 12
+Current 40
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 28
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 21
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=35, blue=53}
+Current 24
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 35
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 53
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 22
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=21, green=31, blue=3}
+Current 21
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 31
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 3
+EQUAL OR LESS THAN 
+Base 14
+Game 23
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=30, green=17, blue=41}
+Current 30
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 17
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 41
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 24
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=38, green=33, blue=21}
+Current 38
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 33
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 21
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 25
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=4, green=29, blue=6}
+Current 4
+EQUAL OR LESS THAN 
+Base 12
+Current 29
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 6
+EQUAL OR LESS THAN 
+Base 14
+Game 26
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=1, green=48, blue=35}
+Current 1
+EQUAL OR LESS THAN 
+Base 12
+Current 48
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 35
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 27
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=9, green=15, blue=5}
+Current 9
+EQUAL OR LESS THAN 
+Base 12
+Current 15
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 14
+Game 28
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=18, green=15, blue=29}
+Current 18
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 15
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 29
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 29
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=15, blue=44}
+Current 24
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 15
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 44
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 30
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=46, blue=12}
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+Current 46
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 12
+EQUAL OR LESS THAN 
+Base 14
+Game 31
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=2, green=38, blue=24}
+Current 2
+EQUAL OR LESS THAN 
+Base 12
+Current 38
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 24
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 32
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=44, green=63, blue=29}
+Current 44
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 63
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 29
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 33
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=63, green=24, blue=59}
+Current 63
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 24
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 59
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 34
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=14, green=41, blue=41}
+Current 14
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 41
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 41
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 35
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=19, blue=30}
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+Current 19
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 30
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 36
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=17, green=8, blue=23}
+Current 17
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 13
+Current 23
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 37
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=14, green=2, blue=16}
+Current 14
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 2
+EQUAL OR LESS THAN 
+Base 13
+Current 16
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 38
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=54, green=20, blue=12}
+Current 54
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 20
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 12
+EQUAL OR LESS THAN 
+Base 14
+Game 39
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=5, blue=3}
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+Current 5
+EQUAL OR LESS THAN 
+Base 13
+Current 3
+EQUAL OR LESS THAN 
+Base 14
+Add 39
+Game 40
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=10, green=23, blue=32}
+Current 10
+EQUAL OR LESS THAN 
+Base 12
+Current 23
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 32
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 41
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=17, green=84, blue=66}
+Current 17
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 84
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 66
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 42
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=3, green=7, blue=18}
+Current 3
+EQUAL OR LESS THAN 
+Base 12
+Current 7
+EQUAL OR LESS THAN 
+Base 13
+Current 18
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 43
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=45, green=18, blue=11}
+Current 45
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 18
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 11
+EQUAL OR LESS THAN 
+Base 14
+Game 44
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=14, blue=25}
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+Current 14
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 25
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 45
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=18, green=27, blue=33}
+Current 18
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 27
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 33
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 46
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=35, green=10, blue=5}
+Current 35
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 10
+EQUAL OR LESS THAN 
+Base 13
+Current 5
+EQUAL OR LESS THAN 
+Base 14
+Game 47
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=4, green=6, blue=2}
+Current 4
+EQUAL OR LESS THAN 
+Base 12
+Current 6
+EQUAL OR LESS THAN 
+Base 13
+Current 2
+EQUAL OR LESS THAN 
+Base 14
+Add 47
+Game 48
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=5, green=1, blue=26}
+Current 5
+EQUAL OR LESS THAN 
+Base 12
+Current 1
+EQUAL OR LESS THAN 
+Base 13
+Current 26
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 49
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=20, green=39, blue=25}
+Current 20
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 39
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 25
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 50
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=35, blue=42}
+Current 24
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 35
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 42
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 51
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=22, green=19, blue=49}
+Current 22
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 19
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 49
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 52
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=5, green=7, blue=20}
+Current 5
+EQUAL OR LESS THAN 
+Base 12
+Current 7
+EQUAL OR LESS THAN 
+Base 13
+Current 20
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 53
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=31, green=35, blue=18}
+Current 31
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 35
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 18
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 54
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=83, green=43, blue=30}
+Current 83
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 43
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 30
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 55
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=9, green=4, blue=8}
+Current 9
+EQUAL OR LESS THAN 
+Base 12
+Current 4
+EQUAL OR LESS THAN 
+Base 13
+Current 8
+EQUAL OR LESS THAN 
+Base 14
+Add 55
+Game 56
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=19, green=5, blue=10}
+Current 19
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 13
+Current 10
+EQUAL OR LESS THAN 
+Base 14
+Game 57
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=30, green=16, blue=2}
+Current 30
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 16
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 2
+EQUAL OR LESS THAN 
+Base 14
+Game 58
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=29, green=39, blue=27}
+Current 29
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 39
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 27
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 59
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=22, green=3, blue=20}
+Current 22
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 3
+EQUAL OR LESS THAN 
+Base 13
+Current 20
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 60
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=19, green=56, blue=13}
+Current 19
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 56
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 13
+EQUAL OR LESS THAN 
+Base 14
+Game 61
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=38, green=5, blue=28}
+Current 38
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 13
+Current 28
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 62
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=26, green=20, blue=48}
+Current 26
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 20
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 48
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 63
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=20, green=40, blue=5}
+Current 20
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 40
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 14
+Game 64
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=25, green=29, blue=30}
+Current 25
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 29
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 30
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 65
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=7, green=28, blue=43}
+Current 7
+EQUAL OR LESS THAN 
+Base 12
+Current 28
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 43
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 66
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=64, green=41, blue=17}
+Current 64
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 41
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 17
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 67
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=7, green=11, blue=20}
+Current 7
+EQUAL OR LESS THAN 
+Base 12
+Current 11
+EQUAL OR LESS THAN 
+Base 13
+Current 20
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 68
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=19, green=7, blue=4}
+Current 19
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 13
+Current 4
+EQUAL OR LESS THAN 
+Base 14
+Game 69
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=42, green=6, blue=8}
+Current 42
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 6
+EQUAL OR LESS THAN 
+Base 13
+Current 8
+EQUAL OR LESS THAN 
+Base 14
+Game 70
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=16, green=2, blue=3}
+Current 16
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 2
+EQUAL OR LESS THAN 
+Base 13
+Current 3
+EQUAL OR LESS THAN 
+Base 14
+Game 71
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=44, green=19, blue=31}
+Current 44
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 19
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 31
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 72
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=4, green=7, blue=23}
+Current 4
+EQUAL OR LESS THAN 
+Base 12
+Current 7
+EQUAL OR LESS THAN 
+Base 13
+Current 23
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 73
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=23, green=18, blue=14}
+Current 23
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 18
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 14
+EQUAL OR LESS THAN 
+Base 14
+Game 74
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=5, green=11, blue=10}
+Current 5
+EQUAL OR LESS THAN 
+Base 12
+Current 11
+EQUAL OR LESS THAN 
+Base 13
+Current 10
+EQUAL OR LESS THAN 
+Base 14
+Add 74
+Game 75
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=35, green=5, blue=42}
+Current 35
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 13
+Current 42
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 76
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=11, green=24, blue=7}
+Current 11
+EQUAL OR LESS THAN 
+Base 12
+Current 24
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 14
+Game 77
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=47, green=56, blue=14}
+Current 47
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 56
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 14
+EQUAL OR LESS THAN 
+Base 14
+Game 78
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=20, green=37, blue=19}
+Current 20
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 37
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 19
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 79
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=34, green=41, blue=14}
+Current 34
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 41
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 14
+EQUAL OR LESS THAN 
+Base 14
+Game 80
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=12, green=27, blue=29}
+Current 12
+EQUAL OR LESS THAN 
+Base 12
+Current 27
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 29
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 81
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=29, blue=40}
+Current 24
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 29
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 40
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 82
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=15, blue=7}
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+Current 15
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 14
+Game 83
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=20, green=18, blue=17}
+Current 20
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 18
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 17
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 84
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=38, blue=43}
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+Current 38
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 43
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 85
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=48, green=28, blue=38}
+Current 48
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 28
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 38
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 86
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=14, green=22, blue=24}
+Current 14
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 22
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 24
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 87
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=21, blue=10}
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+Current 21
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 10
+EQUAL OR LESS THAN 
+Base 14
+Game 88
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=17, green=30, blue=43}
+Current 17
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 30
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 43
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 89
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=26, green=5, blue=20}
+Current 26
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 13
+Current 20
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 90
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=42, green=8, blue=24}
+Current 42
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 13
+Current 24
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 91
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=52, green=40, blue=61}
+Current 52
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 40
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 61
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 92
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=41, green=22, blue=61}
+Current 41
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 22
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 61
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 93
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=17, green=35, blue=9}
+Current 17
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 35
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 9
+EQUAL OR LESS THAN 
+Base 14
+Game 94
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=14, green=31, blue=63}
+Current 14
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 31
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 63
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 95
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=16, green=48, blue=48}
+Current 16
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 48
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 48
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 96
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=54, green=28, blue=32}
+Current 54
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 28
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 32
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 97
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=2, green=43, blue=14}
+Current 2
+EQUAL OR LESS THAN 
+Base 12
+Current 43
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 14
+EQUAL OR LESS THAN 
+Base 14
+Game 98
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=7, green=49, blue=6}
+Current 7
+EQUAL OR LESS THAN 
+Base 12
+Current 49
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 6
+EQUAL OR LESS THAN 
+Base 14
+Game 99
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=49, green=19, blue=38}
+Current 49
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 19
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 38
+EQUAL OR LESS THAN 
+Base 14
+True
+Game 100
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=6, green=3, blue=33}
+Current 6
+EQUAL OR LESS THAN 
+Base 12
+Current 3
+EQUAL OR LESS THAN 
+Base 13
+Current 33
+EQUAL OR LESS THAN 
+Base 14
+True
+224
+Game 1
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=44, green=19, blue=35}
+Current 44
+NOT GREATER THAN 
+Base 12
+false
+Game 2
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=8, blue=17}
+Current 8
+NOT GREATER THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 8
+NOT GREATER THAN 
+Base 13
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 17
+NOT GREATER THAN 
+Base 14
+false
+Game 3
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=1, green=12, blue=31}
+Current 1
+NOT GREATER THAN 
+Base 12
+True
+Current 1
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 12
+NOT GREATER THAN 
+Base 13
+True
+Current 12
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 31
+NOT GREATER THAN 
+Base 14
+false
+Game 4
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=46, green=25, blue=30}
+Current 46
+NOT GREATER THAN 
+Base 12
+false
+Game 5
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=4, green=19, blue=26}
+Current 4
+NOT GREATER THAN 
+Base 12
+True
+Current 4
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 19
+NOT GREATER THAN 
+Base 13
+false
+Game 6
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=9, green=9, blue=48}
+Current 9
+NOT GREATER THAN 
+Base 12
+True
+Current 9
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 9
+NOT GREATER THAN 
+Base 13
+True
+Current 9
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 48
+NOT GREATER THAN 
+Base 14
+false
+Game 7
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=25, green=5, blue=8}
+Current 25
+NOT GREATER THAN 
+Base 12
+false
+Game 8
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=26, green=48, blue=19}
+Current 26
+NOT GREATER THAN 
+Base 12
+false
+Game 9
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=10, green=8, blue=14}
+Current 10
+NOT GREATER THAN 
+Base 12
+True
+Current 10
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 8
+NOT GREATER THAN 
+Base 13
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 14
+NOT GREATER THAN 
+Base 14
+True
+Current 14
+EQUAL OR LESS THAN 
+Base 14
+True
+Add 9
+Game 10
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=22, blue=3}
+Current 24
+NOT GREATER THAN 
+Base 12
+false
+Game 11
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=2, green=45, blue=38}
+Current 2
+NOT GREATER THAN 
+Base 12
+True
+Current 2
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 45
+NOT GREATER THAN 
+Base 13
+false
+Game 12
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=23, green=10, blue=14}
+Current 23
+NOT GREATER THAN 
+Base 12
+false
+Game 13
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=10, green=25, blue=54}
+Current 10
+NOT GREATER THAN 
+Base 12
+True
+Current 10
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 25
+NOT GREATER THAN 
+Base 13
+false
+Game 14
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=5, green=83, blue=18}
+Current 5
+NOT GREATER THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 83
+NOT GREATER THAN 
+Base 13
+false
+Game 15
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=13, green=5, blue=16}
+Current 13
+NOT GREATER THAN 
+Base 12
+false
+Game 16
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=30, green=29, blue=20}
+Current 30
+NOT GREATER THAN 
+Base 12
+false
+Game 17
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=37, green=31, blue=30}
+Current 37
+NOT GREATER THAN 
+Base 12
+false
+Game 18
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=30, green=43, blue=47}
+Current 30
+NOT GREATER THAN 
+Base 12
+false
+Game 19
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=54, green=46, blue=57}
+Current 54
+NOT GREATER THAN 
+Base 12
+false
+Game 20
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=6, green=40, blue=28}
+Current 6
+NOT GREATER THAN 
+Base 12
+True
+Current 6
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 40
+NOT GREATER THAN 
+Base 13
+false
+Game 21
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=35, blue=53}
+Current 24
+NOT GREATER THAN 
+Base 12
+false
+Game 22
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=21, green=31, blue=3}
+Current 21
+NOT GREATER THAN 
+Base 12
+false
+Game 23
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=30, green=17, blue=41}
+Current 30
+NOT GREATER THAN 
+Base 12
+false
+Game 24
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=38, green=33, blue=21}
+Current 38
+NOT GREATER THAN 
+Base 12
+false
+Game 25
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=4, green=29, blue=6}
+Current 4
+NOT GREATER THAN 
+Base 12
+True
+Current 4
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 29
+NOT GREATER THAN 
+Base 13
+false
+Game 26
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=1, green=48, blue=35}
+Current 1
+NOT GREATER THAN 
+Base 12
+True
+Current 1
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 48
+NOT GREATER THAN 
+Base 13
+false
+Game 27
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=9, green=15, blue=5}
+Current 9
+NOT GREATER THAN 
+Base 12
+True
+Current 9
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 15
+NOT GREATER THAN 
+Base 13
+false
+Game 28
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=18, green=15, blue=29}
+Current 18
+NOT GREATER THAN 
+Base 12
+false
+Game 29
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=15, blue=44}
+Current 24
+NOT GREATER THAN 
+Base 12
+false
+Game 30
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=46, blue=12}
+Current 8
+NOT GREATER THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 46
+NOT GREATER THAN 
+Base 13
+false
+Game 31
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=2, green=38, blue=24}
+Current 2
+NOT GREATER THAN 
+Base 12
+True
+Current 2
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 38
+NOT GREATER THAN 
+Base 13
+false
+Game 32
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=44, green=63, blue=29}
+Current 44
+NOT GREATER THAN 
+Base 12
+false
+Game 33
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=63, green=24, blue=59}
+Current 63
+NOT GREATER THAN 
+Base 12
+false
+Game 34
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=14, green=41, blue=41}
+Current 14
+NOT GREATER THAN 
+Base 12
+false
+Game 35
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=19, blue=30}
+Current 8
+NOT GREATER THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 19
+NOT GREATER THAN 
+Base 13
+false
+Game 36
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=17, green=8, blue=23}
+Current 17
+NOT GREATER THAN 
+Base 12
+false
+Game 37
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=14, green=2, blue=16}
+Current 14
+NOT GREATER THAN 
+Base 12
+false
+Game 38
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=54, green=20, blue=12}
+Current 54
+NOT GREATER THAN 
+Base 12
+false
+Game 39
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=5, blue=3}
+Current 8
+NOT GREATER THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 5
+NOT GREATER THAN 
+Base 13
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 3
+NOT GREATER THAN 
+Base 14
+True
+Current 3
+EQUAL OR LESS THAN 
+Base 14
+True
+Add 39
+Game 40
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=10, green=23, blue=32}
+Current 10
+NOT GREATER THAN 
+Base 12
+True
+Current 10
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 23
+NOT GREATER THAN 
+Base 13
+false
+Game 41
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=17, green=84, blue=66}
+Current 17
+NOT GREATER THAN 
+Base 12
+false
+Game 42
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=3, green=7, blue=18}
+Current 3
+NOT GREATER THAN 
+Base 12
+True
+Current 3
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 7
+NOT GREATER THAN 
+Base 13
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 18
+NOT GREATER THAN 
+Base 14
+false
+Game 43
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=45, green=18, blue=11}
+Current 45
+NOT GREATER THAN 
+Base 12
+false
+Game 44
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=14, blue=25}
+Current 8
+NOT GREATER THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 14
+NOT GREATER THAN 
+Base 13
+false
+Game 45
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=18, green=27, blue=33}
+Current 18
+NOT GREATER THAN 
+Base 12
+false
+Game 46
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=35, green=10, blue=5}
+Current 35
+NOT GREATER THAN 
+Base 12
+false
+Game 47
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=4, green=6, blue=2}
+Current 4
+NOT GREATER THAN 
+Base 12
+True
+Current 4
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 6
+NOT GREATER THAN 
+Base 13
+True
+Current 6
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 2
+NOT GREATER THAN 
+Base 14
+True
+Current 2
+EQUAL OR LESS THAN 
+Base 14
+True
+Add 47
+Game 48
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=5, green=1, blue=26}
+Current 5
+NOT GREATER THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 1
+NOT GREATER THAN 
+Base 13
+True
+Current 1
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 26
+NOT GREATER THAN 
+Base 14
+false
+Game 49
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=20, green=39, blue=25}
+Current 20
+NOT GREATER THAN 
+Base 12
+false
+Game 50
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=35, blue=42}
+Current 24
+NOT GREATER THAN 
+Base 12
+false
+Game 51
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=22, green=19, blue=49}
+Current 22
+NOT GREATER THAN 
+Base 12
+false
+Game 52
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=5, green=7, blue=20}
+Current 5
+NOT GREATER THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 7
+NOT GREATER THAN 
+Base 13
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 20
+NOT GREATER THAN 
+Base 14
+false
+Game 53
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=31, green=35, blue=18}
+Current 31
+NOT GREATER THAN 
+Base 12
+false
+Game 54
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=83, green=43, blue=30}
+Current 83
+NOT GREATER THAN 
+Base 12
+false
+Game 55
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=9, green=4, blue=8}
+Current 9
+NOT GREATER THAN 
+Base 12
+True
+Current 9
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 4
+NOT GREATER THAN 
+Base 13
+True
+Current 4
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 8
+NOT GREATER THAN 
+Base 14
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 14
+True
+Add 55
+Game 56
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=19, green=5, blue=10}
+Current 19
+NOT GREATER THAN 
+Base 12
+false
+Game 57
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=30, green=16, blue=2}
+Current 30
+NOT GREATER THAN 
+Base 12
+false
+Game 58
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=29, green=39, blue=27}
+Current 29
+NOT GREATER THAN 
+Base 12
+false
+Game 59
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=22, green=3, blue=20}
+Current 22
+NOT GREATER THAN 
+Base 12
+false
+Game 60
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=19, green=56, blue=13}
+Current 19
+NOT GREATER THAN 
+Base 12
+false
+Game 61
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=38, green=5, blue=28}
+Current 38
+NOT GREATER THAN 
+Base 12
+false
+Game 62
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=26, green=20, blue=48}
+Current 26
+NOT GREATER THAN 
+Base 12
+false
+Game 63
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=20, green=40, blue=5}
+Current 20
+NOT GREATER THAN 
+Base 12
+false
+Game 64
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=25, green=29, blue=30}
+Current 25
+NOT GREATER THAN 
+Base 12
+false
+Game 65
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=7, green=28, blue=43}
+Current 7
+NOT GREATER THAN 
+Base 12
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 28
+NOT GREATER THAN 
+Base 13
+false
+Game 66
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=64, green=41, blue=17}
+Current 64
+NOT GREATER THAN 
+Base 12
+false
+Game 67
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=7, green=11, blue=20}
+Current 7
+NOT GREATER THAN 
+Base 12
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 11
+NOT GREATER THAN 
+Base 13
+True
+Current 11
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 20
+NOT GREATER THAN 
+Base 14
+false
+Game 68
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=19, green=7, blue=4}
+Current 19
+NOT GREATER THAN 
+Base 12
+false
+Game 69
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=42, green=6, blue=8}
+Current 42
+NOT GREATER THAN 
+Base 12
+false
+Game 70
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=16, green=2, blue=3}
+Current 16
+NOT GREATER THAN 
+Base 12
+false
+Game 71
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=44, green=19, blue=31}
+Current 44
+NOT GREATER THAN 
+Base 12
+false
+Game 72
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=4, green=7, blue=23}
+Current 4
+NOT GREATER THAN 
+Base 12
+True
+Current 4
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 7
+NOT GREATER THAN 
+Base 13
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 23
+NOT GREATER THAN 
+Base 14
+false
+Game 73
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=23, green=18, blue=14}
+Current 23
+NOT GREATER THAN 
+Base 12
+false
+Game 74
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=5, green=11, blue=10}
+Current 5
+NOT GREATER THAN 
+Base 12
+True
+Current 5
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 11
+NOT GREATER THAN 
+Base 13
+True
+Current 11
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 10
+NOT GREATER THAN 
+Base 14
+True
+Current 10
+EQUAL OR LESS THAN 
+Base 14
+True
+Add 74
+Game 75
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=35, green=5, blue=42}
+Current 35
+NOT GREATER THAN 
+Base 12
+false
+Game 76
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=11, green=24, blue=7}
+Current 11
+NOT GREATER THAN 
+Base 12
+True
+Current 11
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 24
+NOT GREATER THAN 
+Base 13
+false
+Game 77
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=47, green=56, blue=14}
+Current 47
+NOT GREATER THAN 
+Base 12
+false
+Game 78
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=20, green=37, blue=19}
+Current 20
+NOT GREATER THAN 
+Base 12
+false
+Game 79
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=34, green=41, blue=14}
+Current 34
+NOT GREATER THAN 
+Base 12
+false
+Game 80
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=12, green=27, blue=29}
+Current 12
+NOT GREATER THAN 
+Base 12
+True
+Current 12
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 27
+NOT GREATER THAN 
+Base 13
+false
+Game 81
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=24, green=29, blue=40}
+Current 24
+NOT GREATER THAN 
+Base 12
+false
+Game 82
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=15, blue=7}
+Current 8
+NOT GREATER THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 15
+NOT GREATER THAN 
+Base 13
+false
+Game 83
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=20, green=18, blue=17}
+Current 20
+NOT GREATER THAN 
+Base 12
+false
+Game 84
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=38, blue=43}
+Current 8
+NOT GREATER THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 38
+NOT GREATER THAN 
+Base 13
+false
+Game 85
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=48, green=28, blue=38}
+Current 48
+NOT GREATER THAN 
+Base 12
+false
+Game 86
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=14, green=22, blue=24}
+Current 14
+NOT GREATER THAN 
+Base 12
+false
+Game 87
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=8, green=21, blue=10}
+Current 8
+NOT GREATER THAN 
+Base 12
+True
+Current 8
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 21
+NOT GREATER THAN 
+Base 13
+false
+Game 88
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=17, green=30, blue=43}
+Current 17
+NOT GREATER THAN 
+Base 12
+false
+Game 89
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=26, green=5, blue=20}
+Current 26
+NOT GREATER THAN 
+Base 12
+false
+Game 90
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=42, green=8, blue=24}
+Current 42
+NOT GREATER THAN 
+Base 12
+false
+Game 91
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=52, green=40, blue=61}
+Current 52
+NOT GREATER THAN 
+Base 12
+false
+Game 92
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=41, green=22, blue=61}
+Current 41
+NOT GREATER THAN 
+Base 12
+false
+Game 93
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=17, green=35, blue=9}
+Current 17
+NOT GREATER THAN 
+Base 12
+false
+Game 94
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=14, green=31, blue=63}
+Current 14
+NOT GREATER THAN 
+Base 12
+false
+Game 95
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=16, green=48, blue=48}
+Current 16
+NOT GREATER THAN 
+Base 12
+false
+Game 96
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=54, green=28, blue=32}
+Current 54
+NOT GREATER THAN 
+Base 12
+false
+Game 97
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=2, green=43, blue=14}
+Current 2
+NOT GREATER THAN 
+Base 12
+True
+Current 2
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 43
+NOT GREATER THAN 
+Base 13
+false
+Game 98
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=7, green=49, blue=6}
+Current 7
+NOT GREATER THAN 
+Base 12
+True
+Current 7
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 49
+NOT GREATER THAN 
+Base 13
+false
+Game 99
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=49, green=19, blue=38}
+Current 49
+NOT GREATER THAN 
+Base 12
+false
+Game 100
+GameBase{red=12, green=13, blue=14}
+CurrentGame{red=6, green=3, blue=33}
+Current 6
+NOT GREATER THAN 
+Base 12
+True
+Current 6
+EQUAL OR LESS THAN 
+Base 12
+True
+Current 3
+NOT GREATER THAN 
+Base 13
+True
+Current 3
+EQUAL OR LESS THAN 
+Base 13
+True
+Current 33
+NOT GREATER THAN 
+Base 14
+false
+224

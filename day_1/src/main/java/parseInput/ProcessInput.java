@@ -65,7 +65,7 @@ public class ProcessInput {
                 letters.clear();
                 numbers.clear();
             }
-
+        // @TO DO TREAT ERRORS CORRECTLY
             return finalCounter;
         } catch (FileNotFoundException e) {
             System.err.println("File not found " + filePath);

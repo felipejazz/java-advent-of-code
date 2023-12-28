@@ -12,7 +12,7 @@ public class ParseInputTest {
     @Test
     public void day1Example() {
       
-      String[] args = {"/home/felipe-tarvos/repos/java_aoc/day_1/src/test/input.txt"};
+      String[] args = {"test/input.txt"};
       assertEquals(142, processInput.processInput(args[0]));
     }
 }
