@@ -2,8 +2,7 @@ package parseInput;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.List;
     
 
 public class Main {
@@ -11,10 +10,13 @@ public class Main {
       if (args.length >= 1) {
         
           ProcessInput processInput = new ProcessInput();
-          int processedGames;
+          ProcessLines processLines = new ProcessLines();
+          List<String> lineGames;
           try {
-              processedGames = processInput.process(args[0]);
-            System.out.println(processedGames);
+              lineGames = processInput.run(args[0]);
+              int result = processLines.run(lineGames);
+
+              System.out.println(result);
 
           } catch (FileNotFoundException e) {
               e.printStackTrace();
@@ -22,18 +24,7 @@ public class Main {
           } catch (IOException e) {
               e.printStackTrace();
               throw new IllegalArgumentException("Error reading file: " + args[0], e);
-          }
-        //   HashMap<String, Integer> arrayBaseGame;
-        //   try {
-        //       arrayBaseGame = processInput.process(args[1]).get(0);
-        //   } catch (FileNotFoundException e) {
-        //       e.printStackTrace();
-        //       throw new IllegalArgumentException("File not found: " + args[1], e);
-        //   } catch (IOException e) {
-        //       e.printStackTrace();
-        //       throw new IllegalArgumentException("Error reading file: " + args[1], e);
-        //   }
-          
+          }          
       } else {
           throw new IllegalArgumentException("Please specify input path.");
       }

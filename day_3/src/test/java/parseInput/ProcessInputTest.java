@@ -6,6 +6,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
+
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
 import org.junit.Test;
@@ -13,16 +15,19 @@ import org.junit.Test;
 
 public class ProcessInputTest {
     ProcessInput processInput = new ProcessInput();
+    ProcessLines processLines = new ProcessLines();
+    int result;
+
 
     @Test
     public void exampleInput() {
         String input = "/home/felipe-tarvos/repos/java_aoc/day_3/src/test/input.txt";
-        int processedGames = 0;
-
 
 
         try {
-            processedGames = processInput.process(input);
+        
+            List<String> lineGames = processInput.run(input);    
+            result = processLines.run(lineGames);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
             fail("File not found: " + input);
@@ -31,10 +36,6 @@ public class ProcessInputTest {
             fail("I/O error: " + input);
         }
 
-        assertThat(processedGames, equalTo(4361));
+        assertThat(result, equalTo(4361));
     }
-
-
-
-
-    }
+}
