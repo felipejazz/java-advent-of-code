@@ -1,8 +1,12 @@
-package parseInput;
+package AdventOfCode;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
+import java.util.Map;
+
+import AdventOfCode.ProcessInput;
+import AdventOfCode.ProcessLines;
     
 
 public class Main {
@@ -15,8 +19,8 @@ public class Main {
           try {
               lineGames = processInput.run(args[0]);
               int result = processLines.run(lineGames);
-
               System.out.println(result);
+
 
           } catch (FileNotFoundException e) {
               e.printStackTrace();

@@ -1,4 +1,4 @@
-package parseInput;
+package AdventOfCode;
 
 import java.beans.Transient;
 import java.io.FileNotFoundException;
@@ -12,6 +12,9 @@ import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
+import AdventOfCode.ProcessInput;
+import AdventOfCode.ProcessLines;
+
 
 public class ProcessInputTest {
     ProcessInput processInput = new ProcessInput();
@@ -21,13 +24,14 @@ public class ProcessInputTest {
 
     @Test
     public void exampleInput() {
-        String input = "/home/felipe-tarvos/repos/java_aoc/day_3/src/test/input.txt";
+        String input = "./test/input.txt";
+        List<String> lineGames;
 
-
-        try {
+        try {        
         
-            List<String> lineGames = processInput.run(input);    
-            result = processLines.run(lineGames);
+            lineGames = processInput.run(input);
+            int result = processLines.run(lineGames);
+            assertThat(result, equalTo(13));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
             fail("File not found: " + input);
@@ -36,6 +40,6 @@ public class ProcessInputTest {
             fail("I/O error: " + input);
         }
 
-        assertThat(result, equalTo(4361));
+        
     }
 }

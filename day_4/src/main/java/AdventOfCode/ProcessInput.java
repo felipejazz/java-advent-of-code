@@ -1,4 +1,4 @@
-package parseInput;
+package AdventOfCode;
 
 import java.io.BufferedReader;
 
