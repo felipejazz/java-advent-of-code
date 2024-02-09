@@ -1,4 +1,4 @@
-package parseInput;
+package AdventOfCode;
 
 public class TypeChecker {
     public String checkType(String  input) {

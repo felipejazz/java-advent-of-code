@@ -1,6 +1,5 @@
-package parseInput;
+package AdventOfCode;
 
-import java.beans.Transient;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -16,8 +15,8 @@ public class ProcessInputTest {
 
     @Test
     public void exampleInput() {
-      String basegame = "/home/felipe-tarvos/repos/java_aoc/day_2/src/test/basegame.txt";
-      String input = "/home/felipe-tarvos/repos/java_aoc/day_2/src/test/input.txt";
+      String basegame = "./test/basegame.txt";
+      String input = "./test/input.txt";
     
       HashMap<String, Integer> arrayBaseGame = null;
       ArrayList<HashMap<String, Integer>> processedGames = null;

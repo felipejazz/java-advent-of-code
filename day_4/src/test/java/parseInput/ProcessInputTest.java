@@ -1,14 +1,15 @@
 package parseInput;
 
+import java.beans.Transient;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
-
-import AdventOfCode.ProcessInput;
-import AdventOfCode.ProcessLines;
 import org.junit.Test;
 
 
@@ -20,7 +21,7 @@ public class ProcessInputTest {
 
     @Test
     public void exampleInput() {
-        String input = "./test/input.txt";
+        String input = "/home/felipe-tarvos/repos/java_aoc/day_3/src/test/input.txt";
 
 
         try {

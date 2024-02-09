@@ -20,7 +20,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>parseInput.ProcessInput</mainClass>
+                  <mainClass>AdventOfCode.ProcessInput</mainClass>
                 </transformer>
               </transformers>
             </configuration>

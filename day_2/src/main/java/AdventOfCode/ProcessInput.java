@@ -25,7 +25,7 @@
 // Determine which games would have been possible if the bag had been loaded with only 12 red cubes, 13 green cubes, and 14 blue cubes. What is the sum of the IDs of those games?
 
 // Your puzzle answer was 2716.
-package parseInput;
+package AdventOfCode;
 
 import java.io.BufferedReader;
 import java.io.File;
