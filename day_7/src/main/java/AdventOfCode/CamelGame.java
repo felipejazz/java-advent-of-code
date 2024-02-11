@@ -59,7 +59,7 @@ class CamelGame {
         int result = 0;
         for (int i = 0; i < this.playersRanked.size(); i++) {
             Player currentPlayer = this.playersRanked.get(i);
-            System.out.println("Position i " + "Bid: " + currentPlayer.getBid() + "    HandValue: " + currentPlayer.getHandValue() + " PlayerHand: " + Arrays.toString(currentPlayer.getHand()));
+            System.out.println("Position " + i + " Bid: " + currentPlayer.getBid() + " HandValue: " + currentPlayer.getHandValue() + " PlayerHand: " + Arrays.toString(currentPlayer.getHand()));
 
             result += currentPlayer.getBid() * (i + 1);
         }
