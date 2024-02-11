@@ -55,9 +55,9 @@ public class ProcessLines {
                 System.err.println("WinningNums: " + game.getWinningGame());
                 System.err.println("MatchedNums: " + game.getGameMatches());
                 System.err.println("GameResult: " + game.matchGame());
-            };
+            }
             
-        };
+        }
         return result;
     }
 }

@@ -123,7 +123,7 @@ public class ProcessInput {
                     } else {
                         allValuesAreTrue=true;
                     }
-                };
+                }
                 if (allValuesAreTrue){
                         possibleGames.add(gameNumber);
                 }
@@ -133,16 +133,16 @@ public class ProcessInput {
         Set<Integer> result = new HashSet<>();
         for(int a: possibleGames) {
             result.add(a);
-        };
+        }
     
         Integer counter = 0;
         if (result.size() > 0){
            for ( Integer expectedId: result ){
                counter += expectedId;
-           };
+           }
         } else {
            counter = -1;
         }
         return counter;
     }
-};
+}

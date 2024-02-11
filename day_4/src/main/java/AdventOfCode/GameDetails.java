@@ -10,10 +10,6 @@ class GameDetails {
     private List<Integer> winningGame = new ArrayList<>();
     private List<Integer> gameMatches = new ArrayList<>();
 
-    
-    public Integer getGame() {
-        return game;
-    }
 
     public void setGame(Integer game) {
         this.game = game;
@@ -70,6 +66,6 @@ class GameDetails {
         return "GameDetails: " +
                 "game=" + game +
                 ", gameNumbers=" + gameNumbers +
-                ", winnnigGame=" + winningGame;
+                ", winningGame=" + winningGame;
     }
 }

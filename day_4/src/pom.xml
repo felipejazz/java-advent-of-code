@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>felipe-jazz</groupId>
-	<artifactId>felipe-jazz</artifactId>
+	<groupId>JAdventOfCode</groupId>
+	<artifactId>Day-4</artifactId>
 	<packaging>jar</packaging>
 	<version>0.1.0</version>
 
