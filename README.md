@@ -35,16 +35,16 @@ Before starting, make sure you have the following prerequisites installed on you
    ```
 
 3. To run the code, navigate to the directory where the pom.xml file is located and execute the following command:
-    3.1. If the code does not need to have an input file: 
-       ```bash
-       # Running the project
-       java -jar target/felipe-jazz-0.1.0.jar
-       ```
+    3.1. If the code does not need to have an input file:
+   ```bash
+   # Running the project
+   java -jar target/felipe-jazz-0.1.0.jar
+   ```
     3.2 If the code does need an input file:
-       ```bash
-       # Running the project
-       java -jar target/felipe-jazz-0.1.0.jar path/to/input/file
-       ```
+    ```bash
+    # Running the project
+    java -jar target/felipe-jazz-0.1.0.jar path/to/input/file
+    ```
 4. To run the tests in the project, navigate tot he directory where the pom.xml file is locates and run the following command:
    ```bash
    # Testing the project
@@ -53,9 +53,9 @@ Before starting, make sure you have the following prerequisites installed on you
 
 5. Example: Running the Day 0 (Hello World).
    ```bash
-   cd day_0/src/
-   mvn install
-   java -jar target/felipe-jazz-0.1.0.jar
+   cd HelloWorld/src/
+   mvn clean install
+   java -jar target/HelloWorld-0.1.0.jar
    ```
   - The output should be similar to this:
    ```bash
@@ -63,6 +63,16 @@ Before starting, make sure you have the following prerequisites installed on you
    Hello World
    ``` 
 
+7. General Usage
+
+```bash
+cd DAY_Number/src/
+mvn clean install
+java -jar target/DAY_NUMBER-0.1.0.jar
+```
+
+
+**Remember to replace the correct Day when run the main code** 
 
 
 
