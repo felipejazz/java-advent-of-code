@@ -37,7 +37,8 @@ import java.util.List;
 //        So, in this example, the Elf's pile of scratchcards is worth 13 points.
 //
 //Take a seat in the large pile of colorful cards. How many points are they worth in total?
-
+//
+//Your puzzle answer was 21088.
 public class Main {
   public static void main(String[] args) {
       if (args.length >= 1) {

@@ -15,7 +15,6 @@ public class ProcessLines {
         for (String line : lines) {
             Player player = new Player();
             processLine(line, player);
-            player.playHand();
             playersList.add(player);
 
         }

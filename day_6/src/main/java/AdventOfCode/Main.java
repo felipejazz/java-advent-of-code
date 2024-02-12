@@ -48,9 +48,7 @@ import java.util.List;
 //Determine the number of ways you could beat the record in each race. What do you get if you multiply these numbers together?
 //
 //Your puzzle answer was 3317888.
-//
-//The first half of this puzzle is complete! It provides one gold star: *
-//
+
 
 
 public class Main {
