@@ -108,6 +108,7 @@ public class Main {
         if (allZero){
             return 0;
         } else {
+
             return calcArray[calcArray.length-1] + rowCalc(calcArray);
 
         }
@@ -115,16 +116,16 @@ public class Main {
     public static int processGames(List<String> lineGames) {
         int sum = 0;
         for (String line : lineGames) {
+            System.out.println("Line: " + line);
             String[] sSequence = line.split(" ");
             int[] sequence = new int[sSequence.length];
             for (int i = 0; i < sSequence.length; i++) {
                 sequence[i] = Integer.parseInt(sSequence[i]);
             }
-            System.out.println(Arrays.toString(sequence));
             int nextValue = sequence[sequence.length - 1] + rowCalc(sequence);
-            System.out.println(nextValue);
             sum += nextValue;
         }
+        System.out.println("Result: "+ sum);
         return sum;
     }
 }
