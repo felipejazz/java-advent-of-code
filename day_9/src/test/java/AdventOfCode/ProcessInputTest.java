@@ -14,26 +14,13 @@ import org.junit.Test;
 public class ProcessInputTest {
 
     @Test
-    public void exampleInput() {
+    public void exampleInput() throws IOException {
         ProcessInput processInput = new ProcessInput();
-        List<String> lineGames;
-        String input = "./test/input.txt";
+        String inputPath = "./test/input.txt";
+        List<String> lineGames = processInput.run(inputPath);
 
-        try {
+        int result = Main.processGames(lineGames);
 
-            lineGames = processInput.run(input);
-            History Historic = new History(lineGames);
-            long result = Historic.predict();
-
-            assertThat(result, equalTo(114L));
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-            fail("File not found: " + input);
-        } catch (IOException e) {
-            e.printStackTrace();
-            fail("I/O error: " + input);
-        }
-
-
+        assertThat(result, equalTo(114));
     }
 }

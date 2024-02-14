@@ -2,10 +2,7 @@ package AdventOfCode;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.HashMap;
+import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -45,28 +42,57 @@ import java.util.regex.Pattern;
 
 
 public class Main {
-  public static void main(String[] args) {
-      if (args.length >= 1) {
 
-          ProcessInput processInput = new ProcessInput();
-          List<String> lineGames;
-          try {
-              lineGames = processInput.run(args[0]);
-              History Historic = new History(lineGames);
-              long result = Historic.predict();
-              System.out.println(result);
+    public static void main(String[] args) {
+        if (args.length == 0) {
+            System.err.println("Please specify input path.");
+            System.exit(1);
+        }
 
-          } catch (FileNotFoundException e) {
-              e.printStackTrace();
-              throw new IllegalArgumentException("File not found: " + args[0], e);
-          } catch (IOException e) {
-              e.printStackTrace();
-              throw new IllegalArgumentException("Error reading file: " + args[0], e);
-          }          
-      } else {
-          throw new IllegalArgumentException("Please specify input path.");
-      }
-  }
+        String inputPath = args[0];
+        ProcessInput processInput = new ProcessInput();
+        try {
+            List<String> lineGames = processInput.run(inputPath);
+            int sum = processGames(lineGames);
+            System.out.println("Sum: " + sum);
+        } catch (FileNotFoundException e) {
+            System.err.println("File not found: " + inputPath);
+            e.printStackTrace();
+        } catch (IOException e) {
+            System.err.println("Error reading file: " + inputPath);
+            e.printStackTrace();
+        }
+    }
+    public static int rowCalc(int[] inputArray){
+        int[] calcArray = new int[inputArray.length-1];
+        for (int i = 1; i < inputArray.length; i++) {
+            calcArray[i-1] = inputArray[i] - inputArray[i-1];
+        }
+        System.out.println(Arrays.toString(calcArray));
+
+        boolean allZero = Arrays.stream(calcArray).allMatch((i) -> i == 0);
+        if (allZero){
+            return 0;
+        } else {
+            return calcArray[calcArray.length-1] + rowCalc(calcArray);
+
+        }
+    }
+    public static int processGames(List<String> lineGames) {
+        int sum = 0;
+        for (String line : lineGames) {
+            String[] sSequence = line.split(" ");
+            int[] sequence = new int[sSequence.length];
+            for (int i = 0; i < sSequence.length; i++) {
+                sequence[i] = Integer.parseInt(sSequence[i]);
+            }
+            System.out.println(Arrays.toString(sequence));
+            int nextValue = sequence[sequence.length - 1] + rowCalc(sequence);
+            System.out.println(nextValue);
+            sum += nextValue;
+        }
+        return sum;
+    }
 }
 
 
